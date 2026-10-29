@@ -1,0 +1,898 @@
+{
+  "Tables": [
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 21,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "Manchester City",
+          "GoalsAgainst": 9,
+          "GoalDifference": 11
+        },
+        {
+          "Form": "",
+          "Wins": 7,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 21,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Arsenal",
+          "GoalsAgainst": 5,
+          "GoalDifference": 8
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 1,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 16,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Brighton & Hove Albion",
+          "GoalsAgainst": 7,
+          "GoalDifference": 16
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 3,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 15,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Liverpool",
+          "GoalsAgainst": 8,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 4,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 13,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Chelsea",
+          "GoalsAgainst": 15,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 5,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 11,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Brentford",
+          "GoalsAgainst": 9,
+          "GoalDifference": 5
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 5,
+          "Losses": 1,
+          "Played": 8,
+          "Points": 11,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Leeds United",
+          "GoalsAgainst": 6,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 11,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Newcastle United",
+          "GoalsAgainst": 14,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 11,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Aston Villa",
+          "GoalsAgainst": 12,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 10,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Hull City",
+          "GoalsAgainst": 8,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 2,
+          "Played": 8,
+          "Points": 10,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Everton",
+          "GoalsAgainst": 9,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 1,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 10,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Ipswich Town",
+          "GoalsAgainst": 16,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 9,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "AFC Bournemouth",
+          "GoalsAgainst": 13,
+          "GoalDifference": -1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 9,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Tottenham Hotspur",
+          "GoalsAgainst": 10,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 8,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Fulham",
+          "GoalsAgainst": 10,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 4,
+          "Losses": 3,
+          "Played": 8,
+          "Points": 7,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Manchester United",
+          "GoalsAgainst": 13,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 1,
+          "Losses": 5,
+          "Played": 8,
+          "Points": 7,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Crystal Palace",
+          "GoalsAgainst": 19,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 8,
+          "Points": 6,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Nottingham Forest",
+          "GoalsAgainst": 10,
+          "GoalDifference": -4
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 0,
+          "Losses": 6,
+          "Played": 8,
+          "Points": 6,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Coventry City",
+          "GoalsAgainst": 15,
+          "GoalDifference": -9
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 2,
+          "Losses": 5,
+          "Played": 8,
+          "Points": 5,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Sunderland",
+          "GoalsAgainst": 14,
+          "GoalDifference": -8
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "CompetitionName": "Premier League"
+    },
+    {
+      "Teams": [
+        {
+          "Form": "",
+          "Wins": 9,
+          "Draws": 0,
+          "Losses": 1,
+          "Played": 10,
+          "Points": 27,
+          "Position": 1,
+          "TeamLogo": "",
+          "TeamName": "FC Barcelona",
+          "GoalsAgainst": 11,
+          "GoalDifference": 29
+        },
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 1,
+          "Losses": 1,
+          "Played": 10,
+          "Points": 25,
+          "Position": 2,
+          "TeamLogo": "",
+          "TeamName": "Atletico Madrid",
+          "GoalsAgainst": 8,
+          "GoalDifference": 12
+        },
+        {
+          "Form": "",
+          "Wins": 8,
+          "Draws": 0,
+          "Losses": 2,
+          "Played": 10,
+          "Points": 24,
+          "Position": 3,
+          "TeamLogo": "",
+          "TeamName": "Real Madrid",
+          "GoalsAgainst": 10,
+          "GoalDifference": 15
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 2,
+          "Losses": 2,
+          "Played": 10,
+          "Points": 20,
+          "Position": 4,
+          "TeamLogo": "",
+          "TeamName": "Real Betis",
+          "GoalsAgainst": 14,
+          "GoalDifference": 2
+        },
+        {
+          "Form": "",
+          "Wins": 6,
+          "Draws": 1,
+          "Losses": 3,
+          "Played": 10,
+          "Points": 19,
+          "Position": 5,
+          "TeamLogo": "",
+          "TeamName": "Real Sociedad",
+          "GoalsAgainst": 18,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 5,
+          "Draws": 2,
+          "Losses": 3,
+          "Played": 10,
+          "Points": 17,
+          "Position": 6,
+          "TeamLogo": "",
+          "TeamName": "Sevilla FC",
+          "GoalsAgainst": 16,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "Position": 7,
+          "TeamLogo": "",
+          "TeamName": "Deportivo Alaves",
+          "GoalsAgainst": 11,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 3,
+          "Losses": 3,
+          "Played": 9,
+          "Points": 12,
+          "Position": 8,
+          "TeamLogo": "",
+          "TeamName": "Athletic Club",
+          "GoalsAgainst": 9,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 6,
+          "Losses": 2,
+          "Played": 10,
+          "Points": 12,
+          "Position": 9,
+          "TeamLogo": "",
+          "TeamName": "Celta Vigo",
+          "GoalsAgainst": 7,
+          "GoalDifference": 3
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 12,
+          "Position": 10,
+          "TeamLogo": "",
+          "TeamName": "Villarreal CF",
+          "GoalsAgainst": 14,
+          "GoalDifference": 1
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 5,
+          "Losses": 3,
+          "Played": 10,
+          "Points": 11,
+          "Position": 11,
+          "TeamLogo": "",
+          "TeamName": "Deportivo La Coruna",
+          "GoalsAgainst": 13,
+          "GoalDifference": 0
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 5,
+          "Played": 10,
+          "Points": 11,
+          "Position": 12,
+          "TeamLogo": "",
+          "TeamName": "Osasuna",
+          "GoalsAgainst": 20,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 3,
+          "Draws": 2,
+          "Losses": 5,
+          "Played": 10,
+          "Points": 11,
+          "Position": 13,
+          "TeamLogo": "",
+          "TeamName": "Racing Santander",
+          "GoalsAgainst": 26,
+          "GoalDifference": -11
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 10,
+          "Position": 14,
+          "TeamLogo": "",
+          "TeamName": "Levante",
+          "GoalsAgainst": 19,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 4,
+          "Losses": 4,
+          "Played": 10,
+          "Points": 10,
+          "Position": 15,
+          "TeamLogo": "",
+          "TeamName": "Elche",
+          "GoalsAgainst": 17,
+          "GoalDifference": -3
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 4,
+          "Played": 9,
+          "Points": 9,
+          "Position": 16,
+          "TeamLogo": "",
+          "TeamName": "Rayo Vallecano",
+          "GoalsAgainst": 20,
+          "GoalDifference": -8
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 3,
+          "Losses": 5,
+          "Played": 10,
+          "Points": 9,
+          "Position": 17,
+          "TeamLogo": "",
+          "TeamName": "Getafe",
+          "GoalsAgainst": 15,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 2,
+          "Draws": 2,
+          "Losses": 6,
+          "Played": 10,
+          "Points": 8,
+          "Position": 18,
+          "TeamLogo": "",
+          "TeamName": "Espanyol",
+          "GoalsAgainst": 14,
+          "GoalDifference": -2
+        },
+        {
+          "Form": "",
+          "Wins": 1,
+          "Draws": 3,
+          "Losses": 6,
+          "Played": 10,
+          "Points": 6,
+          "Position": 19,
+          "TeamLogo": "",
+          "TeamName": "Valencia",
+          "GoalsAgainst": 17,
+          "GoalDifference": -10
+        },
+        {
+          "Form": "",
+          "Wins": 0,
+          "Draws": 5,
+          "Losses": 5,
+          "Played": 10,
+          "Points": 5,
+          "Position": 20,
+          "TeamLogo": "",
+          "TeamName": "Malaga",
+          "GoalsAgainst": 19,
+          "GoalDifference": -12
+        }
+      ],
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "CompetitionName": "LaLiga"
+    }
+  ],
+  "PlayerConfig": {
+    "ClickCount": 3,
+    "PlayerName": "GoPlayer",
+    "ShowTables": true,
+    "ShowUpdate": false,
+    "ShowFixtures": true,
+    "PlayerPackage": "org.firetube.mediastream",
+    "PlayericonUrl": "https://m.media-amazon.com/images/I/71gqWj6FXHL.png",
+    "UpdatePackage": "com.ukturksapp.fixturestandingni",
+    "UpdateVersion": 1,
+    "ShowTvChannels": false,
+    "ShowLiveMatches": false,
+    "ShowCustomInterAds": false,
+    "PlayInExternalPlayer": false
+  },
+  "CustomInterAds": [],
+  "FootballFixtures": [
+    {
+      "CountryFlag": "https://flagcdn.com/w320/gb.png",
+      "CountryName": "England",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester United",
+              "HomeTeam": "Chelsea",
+              "MatchTime": "2026-10-31 12:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Leeds United",
+              "HomeTeam": "AFC Bournemouth",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Nottingham Forest",
+              "HomeTeam": "Brentford",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sunderland",
+              "HomeTeam": "Coventry City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Ipswich Town",
+              "HomeTeam": "Hull City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brighton & Hove Albion",
+              "HomeTeam": "Manchester City",
+              "MatchTime": "2026-10-31 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Crystal Palace",
+              "HomeTeam": "Tottenham Hotspur",
+              "MatchTime": "2026-10-31 17:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Fulham",
+              "HomeTeam": "Aston Villa",
+              "MatchTime": "2026-10-31 20:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Arsenal",
+              "HomeTeam": "Liverpool",
+              "MatchTime": "2026-11-01 16:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Everton",
+              "HomeTeam": "Newcastle United",
+              "MatchTime": "2026-11-02 20:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Coventry City",
+              "HomeTeam": "Everton",
+              "MatchTime": "2026-11-06 20:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Tottenham Hotspur",
+              "HomeTeam": "Leeds United",
+              "MatchTime": "2026-11-07 12:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Hull City",
+              "HomeTeam": "Arsenal",
+              "MatchTime": "2026-11-07 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Newcastle United",
+              "HomeTeam": "Fulham",
+              "MatchTime": "2026-11-07 15:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Manchester City",
+              "HomeTeam": "Nottingham Forest",
+              "MatchTime": "2026-11-07 17:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Brentford",
+              "HomeTeam": "Brighton & Hove Albion",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Liverpool",
+              "HomeTeam": "Crystal Palace",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "AFC Bournemouth",
+              "HomeTeam": "Ipswich Town",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Chelsea",
+              "HomeTeam": "Sunderland AFC",
+              "MatchTime": "2026-11-08 14:00 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Aston Villa",
+              "HomeTeam": "Manchester United",
+              "MatchTime": "2026-11-08 16:30 GMT",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "Premier League"
+        }
+      ]
+    },
+    {
+      "CountryFlag": "https://flagcdn.com/w320/es.png",
+      "CountryName": "Spain",
+      "Competitions": [
+        {
+          "Fixtures": [
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Espanyol",
+              "HomeTeam": "Villarreal CF",
+              "MatchTime": "2026-10-30 20:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Atletico Madrid",
+              "HomeTeam": "Levante",
+              "MatchTime": "2026-10-31 14:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Celta Vigo",
+              "HomeTeam": "Rayo Vallecano",
+              "MatchTime": "2026-10-31 16:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Malaga",
+              "HomeTeam": "Real Betis",
+              "MatchTime": "2026-10-31 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Deportivo Alaves",
+              "HomeTeam": "FC Barcelona",
+              "MatchTime": "2026-10-31 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Sevilla FC",
+              "HomeTeam": "Getafe",
+              "MatchTime": "2026-11-01 14:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Madrid",
+              "HomeTeam": "Racing Santander",
+              "MatchTime": "2026-11-01 16:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Valencia",
+              "HomeTeam": "Elche",
+              "MatchTime": "2026-11-01 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Sociedad",
+              "HomeTeam": "Athletic Club",
+              "MatchTime": "2026-11-01 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Osasuna",
+              "HomeTeam": "Deportivo La Coruna",
+              "MatchTime": "2026-11-02 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Deportivo Alaves",
+              "HomeTeam": "Sevilla FC",
+              "MatchTime": "2026-11-06 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Racing Santander",
+              "HomeTeam": "Malaga",
+              "MatchTime": "2026-11-07 14:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "RC Deportivo de A Coruna",
+              "HomeTeam": "Espanyol",
+              "MatchTime": "2026-11-07 16:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Athletic Bilbao",
+              "HomeTeam": "CA Osasuna",
+              "MatchTime": "2026-11-07 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Madrid",
+              "HomeTeam": "Valencia CF",
+              "MatchTime": "2026-11-07 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Real Betis",
+              "HomeTeam": "Elche CF",
+              "MatchTime": "2026-11-08 14:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Rayo Vallecano",
+              "HomeTeam": "Real Sociedad",
+              "MatchTime": "2026-11-08 16:15 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Levante",
+              "HomeTeam": "Celta Vigo",
+              "MatchTime": "2026-11-08 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "Getafe CF",
+              "HomeTeam": "Villarreal CF",
+              "MatchTime": "2026-11-08 18:30 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            },
+            {
+              "Status": "Upcoming",
+              "AwayTeam": "FC Barcelona",
+              "HomeTeam": "Atletico Madrid",
+              "MatchTime": "2026-11-08 21:00 CET",
+              "AwayTeamLogo": "",
+              "HomeTeamLogo": ""
+            }
+          ],
+          "CompetitionName": "LaLiga"
+        }
+      ]
+    }
+  ]
+}
